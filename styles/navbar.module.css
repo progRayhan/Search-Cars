@@ -1,0 +1,31 @@
+.li{
+    list-style-type: none;
+    margin: 0 2vw;
+    font-size: 3vh;
+  }
+  
+  .a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    padding: 2vw;
+    font-family: monospace;
+    cursor: pointer;
+  }
+  
+  .nav{
+    width: 100vw;
+    background-color: #F06424;
+    height: 20;
+  }
+  
+  .ul{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .body{
+    margin: 0;
+  }
+  
